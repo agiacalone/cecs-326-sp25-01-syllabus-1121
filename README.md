@@ -1,8 +1,8 @@
 # Operating Systems
 
-## CECS 326: Section 1 (1126)
+## CECS 326: Section 1 (1121)
 
-### Spring 2024
+### Spring 2025
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
@@ -73,23 +73,25 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 ### Tentative Class Schedule
 
-| Week | Subject                                  |
-|------|------------------------------------------|
-| 1    | Introduction to Operating Systems (Ch 1) |
-| 2    | Processes and Threads (Ch 2)             |
-| 3    | Processes and Threads, ctd               |
-| 4    | First Midterm, Memory Management (Ch 3)  |
-| 5    | Memory Management, ctd                   |
-| 6    | Deadlocks                                |
-| 7    | Deadlocks, ctd                           |
-| 8    | I/O (ch 5)                               |
-| 9    | I/O, ctd                                 |
-| 10   | **Spring Break**                         |
-| 11   | Second Midterm, File Systems (Ch 6)      |
-| 12   | File Systems, ctd                        |
-| 13   | Virtualization (Ch 7)                    |
-| 14   | Virtualization, ctd                      |
-| 15-16| Case Study, Final Exam                   |
+| Week       | Subject                                             |
+|------------|-----------------------------------------------------|
+| Jan 20     | Introduction to Operating Systems (Ch 1)            |
+| Jan 27     | Processes and Threads (Ch 2)                        |
+| Feb  3     | Processes and Threads, ctd                          |
+| Feb 10     | First Midterm, Memory Management (Ch 3)             |
+| Feb 17     | Memory Management, ctd                              |
+| Feb 24     | Deadlock                                            |
+| Mar  3     | Deadlock, ctd                                       |
+| Mar 10     | I/O (ch 5)                                          |
+| Mar 17     | I/O, ctd                                            |
+| Mar 14     | Second Midterm                                      |
+| Mar 31     | **Spring Break**                                    |
+| Apr  7     | File Systems (Ch 6)                                 |
+| Apr 14     | File Systems, ctd                                   |
+| Apr 21     | Virtualization (Ch 7)                               |
+| Apr 28     | Virtualization, ctd                                 |
+| May 5-12   | Case Studies, Final Exam                            |
+
 
 ### Computer Software
 
