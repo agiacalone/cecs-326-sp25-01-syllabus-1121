@@ -8,9 +8,9 @@
 |---------------|---------------------|---------|
 | Tue Thu       | 5:00 PM - 6:15 PM   | HC-120  |
 
-| Instructor        | Email                       | Office  | Office Hours           |
-|-------------------|-----------------------------|---------|----------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu |
+| Instructor        | Email                       | Office  | Office Hours             |
+|-------------------|-----------------------------|---------|--------------------------|
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mon-Thu |
 
 ### Required Textbook
 
